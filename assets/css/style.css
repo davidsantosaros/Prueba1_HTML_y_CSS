@@ -1,0 +1,132 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: -20px;
+    margin-bottom: 0px;
+}
+
+.encabezado {
+    background-size: cover;
+    margin-top: -20px;
+}
+
+.noticias {
+    margin-top: 100px;
+}
+
+.box1 {
+    text-align: center;
+    color: white;
+    text-decoration-color: black;
+}
+
+.logo {
+    max-width: 65%;
+}
+
+.my-navbar {
+    background-color: rgb(0, 140, 240);
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover {
+    background-color: rgb(0, 140, 240);
+    color: black;
+}
+
+ul.nav li a {
+    color: white;
+}
+
+.panel-footer {
+    background-color: rgb(0, 140, 240);
+    color: white;
+}
+
+.navbar-toggle {
+    border: 1px solid white;
+
+}
+
+.navbar-toggle .icon-bar+.icon-bar {
+    background-color: white;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.thumbnail1 {
+    margin-top: 20px;
+}
+
+.carousel-inner>.item>a>img,
+.carousel-inner>.item>img {
+    margin-top: 51px;
+}
+
+.FOTO {
+    max-width: 30%;
+    ;
+}
+
+.color-footer {
+    background-color: blueviolet;
+}
+
+/*
+.carousel-inner img {
+    width: 100%;
+    max-height: 10%;
+}
+
+.carousel-inner{
+ height: 10%;
+}
+*/
+
+/*noticias*/
+.main {
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+.post {
+    padding-bottom: 30px;
+    margin-bottom: 90px;
+    border-bottom: 1px solid#999;
+}
+
+.dos {
+    padding-bottom: 30px;
+    margin-bottom: 90px;
+    border-bottom: 1px solid#999;
+}
+
+.post-title a {
+    color: black;
+}
+
+.posts .thumb {
+    margin-right: 10px;
+}
+
+.posts .thumb img {
+    width: 100%;
+}
+
+.box1 {
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.jumbotron {
+    background-image: url("../images/nosotros2.png");
+
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.well2 {
+    margin-top: -30px;
+}
